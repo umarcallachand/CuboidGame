@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlayerRoll">
+    <Position X="1" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAACASAICgAQAAFEIAiAEAAAAACoQABCAABAoEQ=</HashCode>
+      <FileName>Assets\Projects\Script\PlayerRoll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projects.Script.Score">
+    <Position X="5.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Projects\Script\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreDB">
+    <Position X="7.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAIACAAAgAAgAAAEAAgIQAAAAAIAAiAgAAAAEA=</HashCode>
+      <FileName>Assets\Projects\Script\ScoreDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndScreenController">
+    <Position X="9.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAMAKAEAAAAgAAAAAAQAAAAAACWAQCAQAAAAQE=</HashCode>
+      <FileName>Assets\Projects\Script\EndScreenController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cube_rotation">
+    <Position X="3.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAASAICgAQAABEIACAEAAAAAAIAABAAABAIAQ=</HashCode>
+      <FileName>Assets\Projects\Script\Cube_rotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveData">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgQoAEAAADAAQAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Projects\Script\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sound">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAAJAIAAAAAA=</HashCode>
+      <FileName>Assets\Projects\Script\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrongSwitch">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAQAAAAAAAQAAAAAAQQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Projects\Script\StrongSwitch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Switch">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAQAAAAAAAQAAAAAAQQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Projects\Script\Switch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAmAAAAAAAAAAAAAAAQAAAAAAEACAAAAAAAA=</HashCode>
+      <FileName>Assets\Projects\Script\Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartScreenController">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Projects\Script\StartScreenController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Direction">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAY=</HashCode>
+      <FileName>Assets\Projects\Script\PlayerRoll.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
